@@ -15,6 +15,3 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 }
 
 // @todo - Implement the necessary logic here.
-
-// Delete the option.
-delete_option( 'mg_boilerplate_plugin_db_version' );
